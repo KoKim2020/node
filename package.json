@@ -1,0 +1,19 @@
+{
+  "name": "testnode",
+  "version": "1.0.0",
+  "description": "original",
+  "main": "Addition.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KoKim2020/node.git"
+  },
+  "author": "hwa <waiyanavionics@gmail.com> (http://htetwaiyanaung.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KoKim2020/node/issues"
+  },
+  "homepage": "https://github.com/KoKim2020/node#readme"
+}
